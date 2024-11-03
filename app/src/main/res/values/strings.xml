@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fab SnackBar</string>
+    <string name="sb_men_text">Texto para mostrar</string>
+    <string name="sb_btn_text">Cancelar</string>
+</resources>
